@@ -11,3 +11,14 @@ int itc_spr(int a, int b){
         return a * b;
     return -1;
 }
+
+int itc_sqrt(int num){
+    n=1
+    while (n * n < num)
+        n++;
+    if (n * n == num)
+        return n;
+    return -1;
+}
+
+

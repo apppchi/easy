@@ -2,8 +2,7 @@
 
 int main()
 {
-    int a,b;
-    cin >> a >> b;
-    cout << itc_spr(a,b) << endl;
-    return 0;
+    int a;
+    cin >> a;
+    cout << itc_sqrt(a);
 }

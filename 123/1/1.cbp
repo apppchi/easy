@@ -36,7 +36,6 @@
 		<Unit filename="functions_11_15.cpp" />
 		<Unit filename="functions_1_5.cpp" />
 		<Unit filename="functions_6_10.cpp" />
-		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
