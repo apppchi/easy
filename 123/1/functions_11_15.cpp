@@ -13,6 +13,7 @@ int itc_spr(int a, int b){
 }
 
 int itc_sqrt(int num){
+    int n;
     n=1
     while (n * n < num)
         n++;
